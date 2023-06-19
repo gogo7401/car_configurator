@@ -1,7 +1,8 @@
 # car_configurator
 Car configurator to add extras.
 
-https://github.com/gogo7401/car_configurator/blob/main/task_condition.jpg
+![task_condition](https://github.com/gogo7401/car_configurator/assets/120330216/2727d475-eda2-4d00-9ebb-18d686b5808b)
+
 Да се създаде графично приложение на език за програмиране C#, което да показва
 стойността на лек автомобил от даден модел и марка. Стойността се определя, като
 към стойността на базовия модел се добавя допълнителна сума за екстрите, които се
